@@ -47,7 +47,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 #
 subjects-fields: subject;creator;item_information # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 3 # min size for subject cloud, too many terms = slow load time!
-subjects-stopwords: psychiana staff# boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+subjects-stopwords: psychiana staff # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
 # LOCATIONS PAGE
@@ -83,7 +83,7 @@ year-nav-increment: 5 # set increments when auto gen nav years
 metadata-export-fields: "title	creator	date	description	subject	location	latitude	longitude	source	identifier	type	format	language	rights	rightsstatement	reference_url
 "
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,creator,format,type,data"
+metadata-facets-fields: "subject,creator,format,type,date"
 
 ##########
 # ADVANCED OPTIONS
