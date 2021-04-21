@@ -3,7 +3,7 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-recipient,recipient,true
+recipient,Recipient,true
 subject,Subjects,true
 item_information,Item information,true
 location,Location
