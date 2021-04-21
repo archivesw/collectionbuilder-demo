@@ -1,8 +1,8 @@
 field,index,display
 title,true,true
 date,true,true
+location,true,true
 creator,true,false
 item_information,true,true
 description,true,true
 subject,true,true
-location,true,true
